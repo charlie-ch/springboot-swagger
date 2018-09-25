@@ -1,0 +1,4 @@
+1.pom中添加依赖。
+2.控制层添加注解。
+3.启动，访问swagger-ui
+	http://localhost:7070/swagger-ui.html
